@@ -66,8 +66,9 @@ Due to memory constraints, the dataset was sampled for efficient modeling.
 ---
 
 ### 4️⃣ Graph Attention Network (GAT)
-- **Accuracy:** `0.8905`  
-- **ROC-AUC Score:** `0.9550`
+- **Accuracy:** `0.90`  
+- **ROC-AUC Score:** `0.9631`  
+- *Note: measured on the training graph (664,123 nodes), not a held-out test set.*
 
 ---
 
